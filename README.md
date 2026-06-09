@@ -24,6 +24,10 @@ git checkout 362331172110bffbf2befb27d7b39cc14f709d06
 - [Plots for the Airy point processes](airy_plots.jl)
 - [Benchmarks of our symplectic Arnoldi method for the paper](arnoldi_benchmarks.jl)
 
+### Jupyter notebook
+
+- [Calculations for the Airy point processes](Airy_PfPP.ipynb) (produces the data used in [`airy_plots.jl`](airy_plots.jl)
+
 ### Data for plotting the Airy point processes
 
 See the [`data` folder](data/)
